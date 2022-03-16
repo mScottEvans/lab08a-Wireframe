@@ -12,7 +12,7 @@ header main img{
 nav ul{
   margin-left: 150px;
   margin-right: 150px;
-  border: 3px solid black;
+  /* border: 3px solid black; */
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -21,39 +21,39 @@ nav ul{
 
 main ul{
   margin-top: 30px;
-  border: 3px solid black;
+  /* border: 3px solid black; */
   display: flex;
   justify-content: space-evenly;
 
 }
 section img{
   margin-top: 30px;
-  border: 3px solid green;
+  /* border: 3px solid green; */
   display: flex;
   justify-content: center;
 }
 section article{
   margin-top: 30px;
-  border: 3px solid yellow;
+  /* border: 3px solid yellow; */
   display: flex;
   justify-content: space-around;
   flex-direction: row;
 }
 
 article p{
-  border: 3px solid brown;
+  /* border: 3px solid brown; */
   display: flex;
   justify-content: center;
   margin: 100px;
 }
 article h2{
-  border: 3px solid orange;
+  /* border: 3px solid orange; */
   position: absolute;
   margin-bottom: 300px;
 
 }
 button{
-  border: 3px solid blue;
+  /* border: 3px solid blue; */
   position: absolute;
   left: 817px;
   display: flex;
